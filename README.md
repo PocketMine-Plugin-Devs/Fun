@@ -1,4 +1,4 @@
 Fun
 ===
 
-These plugins have no purpose, but they are fun to play around with!
+These plugins have no specific purpose other than to let players have fun!
